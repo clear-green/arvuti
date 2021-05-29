@@ -1,1 +1,1 @@
-# Soodne sülearvuti on [renoveeritud MacBook] (/arvuti_soodsalt.html)
+# [Soodne sülearvuti on renoveeritud MacBook] (https://github.com/clear-green/arvuti/arvuti_soodsalt.html)
